@@ -1,5 +1,5 @@
 # SimpleViewSharedAndroid
-Demonstration of simple view shared between activities using kotlin *u*
+Demonstration of simple view shared between activities using kotlin
 
 
 
