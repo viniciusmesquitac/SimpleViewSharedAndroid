@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IssuesApp</string>
+
+    <string name="title">KT-17735 Simplify boolean expression produces incorrect result for floats comparison</string>
+</resources>
