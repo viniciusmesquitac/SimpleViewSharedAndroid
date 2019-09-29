@@ -1,3 +1,3 @@
 # SimpleViewSharedAndroid
 Demonstration of simple view shared between activities using kotlin *u*
-![ezgif-2-686893bc23c7](https://user-images.githubusercontent.com/43412432/65839965-ff98ba00-e2e8-11e9-98e6-6112cd380125.gif)
+![demonstration](https://user-images.githubusercontent.com/43412432/65840083-b6e20080-e2ea-11e9-9fc2-ad2001c404b6.gif)
